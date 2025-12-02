@@ -4,6 +4,15 @@ Power BI | SQL | Data Analysis | Digital Marketing Analytics
 
 This project showcases a complete analytics pipeline for evaluating the performance of a digital marketing campaign — from data preparation and SQL exploration to the development of a fully interactive Power BI dashboard for insights and decision-making.
 
+🧪 SQL Exploration
+
+Before building the dashboard, the dataset was explored and validated using SQL queries.
+This step ensured data quality, correct KPI calculations, and understanding of campaign performance.
+
+All SQL queries used in the project are available in:
+
+➡ sql_queries.sql
+
 🚀 Project Overview
 
 Digital marketing campaigns generate massive amounts of data, but without structured analysis, extracting insights becomes difficult.
